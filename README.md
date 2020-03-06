@@ -4,7 +4,7 @@
 <p>
 Solution code and test suite for <a href="********">Finding All Primes Below a Given Number in Javascript</a>, a JavaScript language solution to find all primes below a given number using the Sieve of Eratosthenes.
    
-<br>
+<br><br/>
   Run tests with the terminal command: 'npm test'
 </p>
 <hr>
