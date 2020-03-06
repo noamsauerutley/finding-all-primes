@@ -1,0 +1,18 @@
+{
+  "name": "finding-all-primes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findPrimes.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
