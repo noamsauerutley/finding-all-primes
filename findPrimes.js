@@ -23,3 +23,5 @@ let findPrimes = (number) => {
     
     return primes
 }
+
+module.exports = findPrimes
