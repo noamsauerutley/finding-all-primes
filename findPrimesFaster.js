@@ -4,7 +4,7 @@ let findPrimesFaster = (target) => {
         let primes = [2]
         let max = Math.sqrt(target)
 
-        for(let number = 2; number < target; number++){
+        for(let number = 0; number < target; number++){
             record.push(1)
         }
 
