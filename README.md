@@ -6,6 +6,10 @@ Solution code and test suite for <a href="https://levelup.gitconnected.com/findi
    
 <br><br/>
   Run tests with the terminal command: 'npm test'
+  <br><br/>
+  Published by <a href="https://levelup.gitconnected.com/">∞ Level Up Coding</a><br>
+  Featured by <a href="https://medium.com/topic/javascript">★ Medium Curated</a></p>
+
 </p>
 <hr>
 </hr>
